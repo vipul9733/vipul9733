@@ -1,4 +1,4 @@
-# Vipul Patel - Senior LLM & AI Engineer
+# Vipul Raj Singh Jhala - Senior LLM & AI Engineer
 
 > **Building production-grade AI systems at scale** | LLM Architectures | Multi-Agent Systems | RAG Platforms | LLM Evaluation
 
