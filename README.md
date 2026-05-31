@@ -185,7 +185,7 @@ I'm continuously exploring:
 
 | Platform | Link |
 |----------|------|
-| **LinkedIn** | [linkedin.com/in/vipul-patel-ai](https://linkedin.com/in/vipul-patel-ai) |
+| **LinkedIn** | https://www.linkedin.com/in/vipul-raj-singh-9a1925223|
 | **Twitter** | [@vipul_ai_eng](https://twitter.com/vipul_ai_eng) |
 | **Email** | vipul.patel.ai@gmail.com |
 | **Personal Blog** | [vipul-patel.dev](https://vipul-patel.dev) |
