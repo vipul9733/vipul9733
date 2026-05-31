@@ -11,12 +11,6 @@
 ## 🚀 Quick Overview
 
 Senior software engineer specializing in **Large Language Model (LLM) systems**, **AI agents**, and **enterprise-scale RAG platforms**. Passionate about building production-grade AI solutions that solve real-world problems with measurable impact.I specialize in the full LLM engineering stack: from advanced RAG pipelines and multi-agent orchestration to LoRA/QLoRA fine-tuning and LLM evaluation frameworks. My work has shipped across AdTech, computer vision, and supply chain domains.
-Measurable results I've delivered:
-
-📈 38% improvement in answer faithfulness via hybrid retrieval (BM25 + dense) + ColBERT re-ranking
-🧠 42% reduction in hallucination rates through domain-specific LoRA fine-tuning on Mistral & LLaMA 3
-⚡ 35% lower retrieval latency via chunking strategy and embedding optimization
-🎯 18% CTR boost for ad campaigns via LLM-powered ReAct agents
 
 ### Core Expertise
 - 🤖 **Multi-Agent Systems**: LangGraph, AutoGen, Crew AI architectures
