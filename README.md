@@ -4,13 +4,12 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=vipul9733&color=blue&style=flat)
 [![GitHub followers](https://img.shields.io/github/followers/vipul9733?style=social)](https://github.com/vipul9733)
-[![Twitter Follow](https://img.shields.io/twitter/follow/vipul9733?style=social)](https://twitter.com/vipul9733)
 
 ---
 
 ## 🚀 Quick Overview
 
-Senior software engineer specializing in **Large Language Model (LLM) systems**, **AI agents**, and **enterprise-scale RAG platforms**. Passionate about building production-grade AI solutions that solve real-world problems with measurable impact.I specialize in the full LLM engineering stack: from advanced RAG pipelines and multi-agent orchestration to LoRA/QLoRA fine-tuning and LLM evaluation frameworks. My work has shipped across AdTech, computer vision, and supply chain domains.
+Senior software engineer specializing in **Large Language Model (LLM) systems**, **AI agents**, and **enterprise-scale RAG platforms**. Passionate about building production-grade AI solutions with measurable impact.
 
 ### Core Expertise
 - 🤖 **Multi-Agent Systems**: LangGraph, AutoGen, Crew AI architectures
@@ -72,7 +71,7 @@ Senior software engineer specializing in **Large Language Model (LLM) systems**,
 ![LangChain](https://img.shields.io/badge/LangChain-black?style=flat)
 ![LangGraph](https://img.shields.io/badge/LangGraph-blue?style=flat)
 ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-orange?style=flat)
-![AutoGen](https://img.shields.io/badge/AutoGen-red?style=flat)
+![RAGAS](https://img.shields.io/badge/RAGAS-FF6B6B?style=flat)
 
 ### LLM Providers
 ![OpenAI](https://img.shields.io/badge/GPT--4o-412991?style=flat)
@@ -91,9 +90,9 @@ Senior software engineer specializing in **Large Language Model (LLM) systems**,
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat)
 
 ### Evaluation & Monitoring
-![RAGAS](https://img.shields.io/badge/RAGAS-FF6B6B?style=flat)
 ![LangSmith](https://img.shields.io/badge/LangSmith-00CEC9?style=flat)
 ![Weights & Biases](https://img.shields.io/badge/W%26B-FFBE00?style=flat)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat)
 
 ---
 
@@ -188,7 +187,7 @@ I'm continuously exploring:
 | **LinkedIn** | https://www.linkedin.com/in/vipul-raj-singh-9a1925223|
 | **Twitter** | [@vipul_ai_eng](https://twitter.com/vipul_ai_eng) |
 | **Email** | vipul.patel.ai@gmail.com |
-| **Personal Blog** | [vipul-patel.dev](https://vipul-patel.dev) |
+| **Portfolio** | [vipul-patel.dev](https://vipul-patel.dev) |
 
 ---
 
@@ -200,16 +199,14 @@ I'm continuously exploring:
 
 ---
 
-## 📖 Blog Posts & Resources
+## 📖 Project Documentation
 
-I regularly write about:
-- **LLM System Design**: Architecture patterns for production systems
-- **RAG Best Practices**: Retrieval optimization and evaluation
-- **Multi-Agent AI**: Agent coordination and planning
-- **Production LLMs**: Deployment, monitoring, and optimization
-- **AI Research**: Latest papers and implementations
-
-👉 [Read my latest posts](#)
+Each project includes comprehensive documentation:
+- 📋 **README.md** - Project overview and quick start
+- 🏗️ **ARCHITECTURE.md** - System design and technical details
+- 📡 **API.md** - Complete API reference with examples
+- 🚀 **DEPLOYMENT.md** - Production deployment guide
+- 🧪 **CONTRIBUTING.md** - Contribution guidelines
 
 ---
 
@@ -229,15 +226,17 @@ I regularly write about:
 
 ---
 
-## 📖 Quick Links
+## 🔗 Quick Links
 
-- 📋 [Portfolio Deployment Summary](./PORTFOLIO_DEPLOYMENT_SUMMARY.md) - Overview of all projects and deployment status
-- 🚀 [Getting Started with Projects](#featured-projects) - Jump to projects
-- 💼 [Technical Stack](#%EF%B8%8F-technical-stack) - See technologies used
+- 🏠 [Main Profile](https://github.com/vipul9733)
+- 📚 [All Repositories](https://github.com/vipul9733?tab=repositories)
+- 📋 [Portfolio Deployment Summary](./PORTFOLIO_DEPLOYMENT_SUMMARY.md)
+- ⭐ [Featured Projects](#featured-projects)
+- 🛠️ [Technical Stack](#%EF%B8%8F-technical-stack)
 
 ---
 
-**Last Updated**: May 31, 2026 | Always updating with latest AI research and implementations
+**Last Updated**: June 14, 2024 | Always updating with latest AI research and implementations
 
 **Status**: 🟢 Actively Seeking Opportunities | Open to Remote & International Positions
 
@@ -248,5 +247,7 @@ I regularly write about:
 ### ⭐ If you find these projects useful, consider giving them a star! ⭐
 
 **Let's build the future of AI together** 🚀
+
+### [View All Projects →](https://github.com/vipul9733?tab=repositories)
 
 </div>
